@@ -1,0 +1,86 @@
+week 6 Assignment :
+
+SMARTPHONE PROJECT
+INTRODUCTION
+
+This project covers about the detailed information about
+the different type of smartphones further discussing
+about the specification of each type by taking a device as
+example.
+
+TYPE OF SMARTPHONE
+
+ANDROID
+
+It is a mobile operating system based on a modified
+version of the linux kernel and other open source
+software, designed primarily for touchscreen mobile
+devices such as smartphone and tablets.
+
+Name of Device: Samsung Galaxy M31(Global)
+
+Manufacturer: Samsung
+
+Board: exynos9611
+Internal storage: 128 GB
+Installed RAM: 6GB
+Bluetooth Version: 5.0
+SoC Model: Samsung exynos & Octa (9611)
+Core Architecture: 4* ARM Cortex-A53 @1742
+MHz, 4*ARM Cortex-A73@2314 MHz
+Manufacturing Process: 10 nm
+Instruction Set: 64-bit ARMv8-A\
+CPU Cores: 8
+CPU Clock Range: 403-2314 MHz
+Screen Resolution: 1080*2340
+Technology: Super AMOLED
+Android Version: 10
+API Level: 29
+
+iPhone
+
+It is a line of touchscreen based smartphones
+designed and marketed by Apple Inc that uses iOS
+mobile operating system. Its was released in January
+2007.
+
+Name of Device: iPhone 5s
+Manufacturer: Apple Inc
+Released: 20 Sep 2013
+Version: 4.0
+Operating System: iOS
+CPU: A7
+Speed: 1300MHz
+CPU Cores: 2
+Manufacturing Process: 28nm
+Installed RAM: 1000MB
+Internal Storage: 32GB
+Screen Resolution: 1136*640
+Technology: IPS
+
+MOBILE NETWORK PROJECT
+
+INTRODUCTION
+
+This project Describe the location of where your
+device experienced the largest number of Neighbor
+Base Stations, and how many were there. In
+addition, describe the PCI, RSSI, RSRP, RSRQ, RSSNR,
+ASU, and CQI values measured.
+
+Serving Base
+
+PCI: 338
+RSRP: -90
+RSRQ: -11
+RSSNR: 50
+ASU: 49
+CQI: 10
+
+Neighbor base
+
+PCI: 338
+RSPR: -91
+RSRQ: -12
+RSSNR: 00
+ASU: 47
